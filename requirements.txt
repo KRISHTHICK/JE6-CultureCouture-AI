@@ -1,0 +1,23 @@
+streamlit
+transformers
+langchain
+Pillow
+
+
+# # 🧵 CultureCouture AI - Tradition Meets Trend
+
+# CultureCouture AI helps users blend traditional fashion with modern style using AI-powered suggestions, caption generators, and fusion recommendations.
+
+# ## 🔧 Features
+# - Upload traditional outfit → get cultural breakdown
+# - AI fashion fusion ideas
+# - LLM-powered Q&A and blog captioning
+# - Streamlit UI
+# - No cloud API — works offline with Ollama!
+
+# ## 🚀 How to Run
+
+# ### 1. Clone the Repo
+# ```bash
+# git clone https://github.com/yourusername/CultureCouture-AI.git
+# cd CultureCouture-AI
